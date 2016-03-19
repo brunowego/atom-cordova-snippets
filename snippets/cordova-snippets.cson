@@ -1,0 +1,10 @@
+".text.xml":
+  "Cordova iOS: EnableViewportScale":
+    prefix: "enableviewportscale"
+    body: "<preference name=\"EnableViewportScale\" value=\"${1:true}\" />"
+  "Cordova iOS: MediaPlaybackRequiresUserAction":
+    prefix: "mediaplaybackrequiresuseraction"
+    body: "<preference name=\"MediaPlaybackRequiresUserAction\" value=\"${1:true}\" />"
+  "Cordova iOS: AllowInlineMediaPlayback":
+    prefix: "allowinlinemediaplayback"
+    body: "<preference name=\"AllowInlineMediaPlayback\" value=\"${1:true}\" />"
